@@ -4,17 +4,15 @@
 <h1 align="center">Eaí, Dev! Tudo bem? 👋</h1>
 
 ## 📌 Sobre mim
-Tenho 20 anos e estou cursando **Análise e Desenvolvimento de Sistemas na FIAP**. Sou um desenvolvedor focado em soluções **Back-End** e **Banco de Dados**, com experiência em criar aplicações robustas e escaláveis.
+Meu nome é Lucas, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas na FIAP. Sou um desenvolvedor focado em soluções Back-End e Banco de Dados, com noções básicas de Front-End e experiência na criação de aplicações robustas e escaláveis.
 
-Meu objetivo é construir sistemas bem estruturados, utilizando:
+Meu objetivo é construir sistemas bem estruturados, e aplicações robustas utilizando:
 - ⚙️ **Back-End:** Java (Spring Boot)
 - 🗄️ **Banco de Dados:** SQL / PL/SQL (Oracle, MySQL, Postgres)
 - 🔌 **Arquitetura:** APIs REST e Microserviços
 - 🐳 **Infraestrutura:** Containerização com Docker
 - ☁️ **Cloud:** Deploy e serviços em nuvem com Azure
-- 🐍 **Automação:** Scripts com Python
 - 🎨 **Front-End:** Noções de TypeScript, React e Angular
-
 ---
 
 ## 🧠 Áreas de Foco
@@ -39,7 +37,6 @@ Meu objetivo é construir sistemas bem estruturados, utilizando:
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" />
   <img src="https://skillicons.dev/icons?i=java" height="40" />
 </p>
 
